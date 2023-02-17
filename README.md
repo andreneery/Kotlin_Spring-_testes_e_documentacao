@@ -2,7 +2,7 @@
 
 #PROJETO DO CURSO ALURA PARA TESTES AUTOMATIZADOS E DOCUMENTÇÃO DE API EM KOTLIN + SPRING
 
-contém um projeto Kotlin/Spring que demonstra como escrever testes e documentação para uma API RESTful.
+Contém um projeto Kotlin/Spring que demonstra como escrever testes e documentação para uma API RESTful.
 
 O projeto consiste em um CRUD simples de gerenciamento de filmes, onde é possível realizar operações de criação, leitura, atualização e exclusão de filmes por meio de endpoints REST.
 
